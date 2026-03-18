@@ -43,7 +43,7 @@ This project analyzes portfolio performance and financial risk using Python and 
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](<img width="1912" height="1069" alt="Portfoilo Risk  Volatility Monitoring Dashboard" src="https://github.com/user-attachments/assets/48317f0d-8470-4084-8162-84709729bae0" />
+[Dashboard Screenshot](<img width="1912" height="1069" alt="Portfoilo Risk  Volatility Monitoring Dashboard" src="https://github.com/user-attachments/assets/48317f0d-8470-4084-8162-84709729bae0" />
 
 ---
 
