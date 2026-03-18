@@ -16,7 +16,7 @@ This project analyzes portfolio performance and financial risk using Python and 
 ---
 
 ## Tech Stack
-- Python (Pandas, NumPy)  
+- Python  
 - Tableau  
 - CSV / Excel  
 
