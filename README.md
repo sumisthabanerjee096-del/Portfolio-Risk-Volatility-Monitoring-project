@@ -60,12 +60,12 @@ To help users understand portfolio performance, measure financial risk, and esti
 
 ---
 
- Author
+## Author
 **Sumistha Banerjee**  
 - GitHub: https://github.com/sumisthabanerjee096-del
  
-
-Contribution
+---
+##Contribution
 Worked on data analysis, Monte Carlo simulation, and Tableau dashboard design to convert raw financial data into meaningful insights.
 
 ---
